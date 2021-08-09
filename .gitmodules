@@ -1,0 +1,6 @@
+[submodule "time-tracker-front-end"]
+	path = time-tracker-front-end
+	url = https://github.com/JeanGT/time-tracker-front-end
+[submodule "time-tracker-api"]
+	path = time-tracker-api
+	url = https://github.com/JeanGT/time-tracker-api
